@@ -23,7 +23,7 @@ namespace WpfAppGraph
     /// </summary>
     public partial class MainWindow : Window
     {
-        private string ClientId { get; set; } = "1857b8bd-3684-4bb3-a4c6-973770763f50";
+        private string ClientId { get; set; } = "{CLIENT_ID_2}";
         // TODO: Connect to Graph
         private Connector connector { get; set; }
 
